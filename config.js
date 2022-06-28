@@ -50,7 +50,7 @@ global.location = "Indonesia" //ur location
 //bot bombdy
 global.botname = "Hinata Hyuuga Multi Device" //ur bot name
 global.websitex = "https://chat.whatsapp.com/KXRsI1KjhGF9MkAmw1mmOX" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
+global.vidmenu = { url: 'https://a.uguu.se/xWdgCDlw.mp4' } //gif and video menu
 global.packname = "Hinata Hyuuga \n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Satganz Devs"
 global.themeemoji = "🐶"
